@@ -18,7 +18,7 @@ mvn clean package
 java -jar Indy502.jar
 ```
 
-##Screenshot
+## Screenshot
 
 ![Screenshot png](screenshot.png "The game in action !")
 
