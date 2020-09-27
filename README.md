@@ -4,7 +4,7 @@ Java clone of Indy502, a TI83 game written in Basic.
 
 TI83 original game name Indy502 probably refers to the 1989 car simulation game "Indianapolis 500: The Simulation".
 
-This clone uses the Game Loop Pattern. Explanations at : [https://java-design-patterns.com/patterns/game-loop](https://java-design-patterns.com/patterns/game-loop)
+This clone uses the Game Loop pattern. Explanations at : [https://java-design-patterns.com/patterns/game-loop](https://java-design-patterns.com/patterns/game-loop)
 
 ## Installation
 
