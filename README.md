@@ -6,7 +6,7 @@ TI83 original game name Indy502 probably refers to the 1989 car simulation game 
 
 This clone uses the Game Loop pattern. Explanations at : [https://java-design-patterns.com/patterns/game-loop](https://java-design-patterns.com/patterns/game-loop)
 
-## Installation
+## Build
 
 ```bash
 mvn clean package
